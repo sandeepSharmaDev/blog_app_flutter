@@ -2,7 +2,6 @@ import 'package:blog_app/core/theme/app_pallete.dart';
 import 'package:blog_app/features/auth/presentation/pages/login_page.dart';
 import 'package:blog_app/features/auth/presentation/widgets/auth.field.dart';
 import 'package:blog_app/features/auth/presentation/widgets/auth_gradient_button.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class SignUpPage extends StatefulWidget {
